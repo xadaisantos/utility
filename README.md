@@ -1,2 +1,2 @@
 # utility
-Some functions that I created for practice and for utility.
+I will post most of my exercises here while I learn.
