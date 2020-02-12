@@ -1,2 +1,2 @@
 # utility
-Some functions that I created for practice and for utility.
+Some functions that I created to practice and for utility.
